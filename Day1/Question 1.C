@@ -1,5 +1,5 @@
 #include <stdio.h>
-Question 1 done
+
 int main() {
     long long n;
     int count = 0;
