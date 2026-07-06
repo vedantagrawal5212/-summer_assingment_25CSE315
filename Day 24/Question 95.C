@@ -11,6 +11,4 @@ public class LongestWord {
             }
         }
 
-        System.out.println("Longest Word: " + longest);
-    }
-}Find longest word in a sentence
+        System.out.println("Longest Word: " + longest)
